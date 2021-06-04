@@ -1,0 +1,33 @@
+
+
+
+.arriba{
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+#pais{
+    color: darkgoldenrod;
+}
+
+
+#imagen>img {
+    width: 70px;
+}
+
+
+
+#temp {
+    font-size: 1.1em;
+    color: darkgoldenrod;
+
+    
+}
+
+#clima {
+    display: flex;
+    color: darkgoldenrod;
+    font-size: 1.1em;
+}
